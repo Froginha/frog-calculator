@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lato:wght@700&family=Pangolin&family=Roboto+Mono&display=swap');
+
+body{
+    background-image: url(wallfrog.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.calculator {
+    padding: 10px;
+    border-radius: 1em;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background-image: url(22fa7a01e537300861df43f8fb4f4805.png);
+    box-shadow: rgba(94, 88, 88, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.display-box{
+    font-family: 'Pangolin', cursive, sans-serif;
+    background-color: #ffffff;
+    border: solid #6e814a 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+    outline: none;
+    font-size: 18px;
+}
+
+#btn{
+    background-color: #739673;
+    color: white;
+}
+
+input[type=button] {
+    font-family: 'Pangolin', cursive, sans-serif;
+    background: linear-gradient( to bottom , rgb(189, 219, 189), rgb(161, 182, 161));
+    color: #ffffff;
+    border: solid rgb(75, 67, 67) 0.6px;
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+    outline: none;
+}
+
+input:active[type=button] {
+    background: #e5e5e5;
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+    box-shadow: inset 0px 0px 5px #c1c1c1;
+}
+
+.froginha img{
+    position: absolute;
+    top: 0px;
+    left: -5px;
+    max-width: 100px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+}
