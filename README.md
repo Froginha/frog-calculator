@@ -5,4 +5,6 @@ A cute calculator with little frogs!
 Created as a form of JS training
 <br>
 <br>
-**You can see this project here: https://froginha.github.io/frog-calculator/**
+**You can see this project here:**
+</br>
+https://github.com/Froginha/frog-calculator/ 
