@@ -7,4 +7,4 @@ Created as a form of JS training
 <br>
 **You can see this project here:**
 </br>
-https://github.com/Froginha/frog-calculator/ 
+https://froginha.github.io/frog-calculator/
